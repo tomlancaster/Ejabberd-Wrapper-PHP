@@ -1,0 +1,3 @@
+This is not a complete interface to ejabberdctl admin commands but it does provide a wrapper for many useful ones, including those from the extended command list for muc administration.
+
+Please feel free to add to this.
